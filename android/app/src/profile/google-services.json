@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "493868236696",
+    "firebase_url": "https://aplikasi-sekolah-68a36.firebaseio.com",
+    "project_id": "aplikasi-sekolah-68a36",
+    "storage_bucket": "aplikasi-sekolah-68a36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493868236696:android:5049dd5d4b5f3008f335ed",
+        "android_client_info": {
+          "package_name": "com.venus.sqlite_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493868236696-gn33v8gfbtj2st21tbshg6lefcqslhok.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.venus.sqlite_app",
+            "certificate_hash": "d82506f3ab3b9974f2ac29de6485f0c07d34db73"
+          }
+        },
+        {
+          "client_id": "493868236696-44ig8pinfjr01clm23edfto64cgj30cg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZvd_cKEZbkLpnPkqFuXDRSF1EJ2Zadvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493868236696-44ig8pinfjr01clm23edfto64cgj30cg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
