@@ -1,4 +1,4 @@
-import 'package:sqflite/sqflite.dart';
+ import 'package:sqflite/sqflite.dart';
 import 'package:path/path.dart';
 import 'package:sqlite_app/model/model_mahasiswa.dart';
 
